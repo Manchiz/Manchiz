@@ -1,6 +1,6 @@
 ### Hi folks!, I'm Sachith [Manchiz][website] 👋
 
-## I'm a Sowtware Engineeer ar WSO2
+## I'm a Sowtware Engineeer ar WSO2.
 
 
 ### Connect with me:
