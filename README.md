@@ -21,6 +21,7 @@
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="ballerina" width="45" height="45"/>
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="github" width="45" height="45"/> 
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="github" width="45" height="45"/> 
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="75" height="60"/> 
@@ -31,9 +32,10 @@
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="github" width="45" height="45"/> 
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="github" width="45" height="45"/> 
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="github" width="45" height="45"/> 
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="github" width="45" height="45"/> 
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="github" width="45" height="45"/> 
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="github" width="45" height="45"/> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="github" width="45" height="45"/> 
+
 
 </p>
 
