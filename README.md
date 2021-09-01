@@ -1,6 +1,7 @@
 ## Hi folks!, I'm Sachith Manchanayaka 👋
 
 ### I'm a Software Engineeer at WSO2
+[![Website](https://img.shields.io/website?label=Profile&style=for-the-badge&url=https%3A%2F%2Fwso2.com)](https://wso2.com/about/team/sachith-manchanayaka/)
 
 ---
 
@@ -37,13 +38,37 @@
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="github" width="45" height="45"/> 
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="github" width="45" height="45"/> 
 </p>
-
 <br />
+
+
+### My Certifications
+
+- [Spring Boot Microservices and Spring Cloud](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/)
+
+- [Microservices with Node Js and React](https://www.udemy.com/course/microservices-with-node-js-and-react/)
+
+- [Software Architecture for the Enterprise Architect](https://www.udemy.com/course/enterprise-architecture/)
+
+- [Mastering The Complete Agile Scrum Master Workshop](https://www.udemy.com/course/complete-professional-scrum-master-training-exam-simulator/)
+
+- [WSO2 Certified Identity Server Developer - V5](https://certification.wso2.com/web/certificate/AMDARW)
+
+
+
+
 
 ### Stats
 ---
 
- <img align="left" alt="Manchiz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Manchiz&show_icons=true&hide_border=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+### Mostly used languages
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+ 
 
 
 
