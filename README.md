@@ -2,9 +2,6 @@
 
 ### I'm a Software Engineeer at WSO2
 
-
-
-
 ### Connect with me:
 
 [<img align="left" alt="sachith-manchanayaka_mail" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40" width="40"  />][gmail]
