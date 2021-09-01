@@ -26,6 +26,7 @@
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="75" height="60"/> 
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> 
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="github" width="45" height="45"/> 
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="45" height="45"/> 
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="github" width="45" height="45"/> 
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="github" width="45" height="45"/> 
