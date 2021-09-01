@@ -1,4 +1,4 @@
-### Hi folks!, I'm Sachith [Manchiz][website] 👋
+### Hi folks!, I'm Sachith Manchanayaka 👋
 
 ## I'm a Sowtware Engineeer ar WSO2
 
