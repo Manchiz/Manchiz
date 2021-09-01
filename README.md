@@ -1,6 +1,8 @@
 ### Hi folks!, I'm Sachith Manchanayaka 👋
 
-## I'm a Sowtware Engineeer ar WSO2
+## I'm a Sowtware Engineeer at WSO2
+
+
 
 
 ### Connect with me:
@@ -42,9 +44,6 @@
 
 <br />
 <br />
-
----
-
 ---
 
 <details>
