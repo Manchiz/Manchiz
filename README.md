@@ -19,6 +19,7 @@
 <br />
 
 ### Languages and Tools:
+---
 
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/> 
@@ -44,6 +45,7 @@
 
 
 ### My Certifications
+---
 
 - [Spring Boot Microservices and Spring Cloud](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/)
 
