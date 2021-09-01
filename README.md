@@ -5,7 +5,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sachith-manchanayaka" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][gmail]
+[<img align="left" alt="sachith-manchanayaka_mail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][gmail]
 [<img align="left" alt="sachithmanchanayaka | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
 [<img align="left" alt="sachith.manchanayaka" width="22px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />][facebook]
 [<img align="left" alt="sachithmanchi | instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
@@ -85,9 +85,9 @@
 
 </details>
 
-[gmail]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
+[gmail]: mailto:eng.smanchanayake@gmail.com
+
+
 [facebook]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/sachithmanchanayaka
