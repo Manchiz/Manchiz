@@ -5,9 +5,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sachith-manchanayaka_mail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][gmail]
-[<img align="left" alt="sachithmanchanayaka | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
-[<img align="left" alt="sachith.manchanayaka" width="22px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />][facebook]
+[<img align="left" alt="sachith-manchanayaka_mail" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40" width="40"  />][gmail]
+[<img align="left" alt="sachithmanchanayaka | LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="40" width="40" />][linkedin]
+[<img align="left" alt="sachith.manchanayaka" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" height="40" width="40" />][facebook]
 [<img align="left" alt="sachithmanchi | instagram"  src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="40" width="40"  />][instagram]
 
 
