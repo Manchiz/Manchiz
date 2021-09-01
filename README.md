@@ -27,7 +27,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> 
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="45" height="45"/> 
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="github" width="45" height="45"/> 
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="github" width="45" height="45"/> 
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="github" width="45" height="45"/> 
 
 </p>
 
