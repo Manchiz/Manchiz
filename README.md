@@ -1,4 +1,4 @@
-### Hi folks!, I'm Sachith Manchanayaka 👋
+## Hi folks!, I'm Sachith Manchanayaka 👋
 
 ## I'm a Software Engineeer at WSO2
 
