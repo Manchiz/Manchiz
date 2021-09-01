@@ -62,12 +62,12 @@
 ### Stats
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manchiz)](https://github.com/manchiz/github-readme-stats)
 
 ### Mostly used languages
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manchiz)](https://github.com/manchiz/github-readme-stats)
 
 
  
