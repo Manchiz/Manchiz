@@ -1,6 +1,8 @@
 ## Hi folks!, I'm Sachith Manchanayaka 👋
 
-### I'm a Software Engineeer at WSO2
+“A tech enthusiast who has a craving for coding"
+
+### I'm a Software Engineeer at [<img  align="center" alt="sachith-manchanayaka_mail" src="https://wso2.cachefly.net/wso2/sites/images/brand/downloads/wso2-logo.svg" height="70" width="70"  />][gmail]
 [![Website](https://img.shields.io/website?label=Profile&style=for-the-badge&url=https%3A%2F%2Fwso2.com)](https://wso2.com/about/team/sachith-manchanayaka/)
 
 ---
