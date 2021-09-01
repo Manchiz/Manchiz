@@ -17,10 +17,17 @@
 
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/> 
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45"/>
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="ballerina" width="45" height="45"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="ballerina" width="45" height="45"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="ballerina" width="45" height="45"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="ballerina" width="45" height="45"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="ballerina" width="45" height="45"/>
+    
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/ballerinaio/ballerinaio-icon.svg" alt="ballerina" width="45" height="45"/>
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45"/>
+   
     <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="45" height="45"/>
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="45" height="45"/>
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
