@@ -37,14 +37,13 @@
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="github" width="45" height="45"/> 
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="github" width="45" height="45"/> 
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="github" width="45" height="45"/> 
- 
-
-
 </p>
 
 <br />
 <br />
 ---
+ <img align="left" alt="Manchiz's GitHub Stats" src="https://github-readme-stats.manchiz.vercel.app/api?username=Manchiz&show_icons=true&hide_border=true" />
+
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
